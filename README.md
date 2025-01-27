@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm Raviteja from Hosur<br><br>- 🔭 I’m a Software developer<br>- 📚 I'm currently learning trending Technologies<br>- ⚡ In my free time I solve problems</p>
+<p align="left">I'm Ravi Teja<br><br>- 🔭 Software developer<br>- 📚 I'm currently learning trending Technologies<br>- ⚡ In my free time I solve problems</p>
 
 ###
 
